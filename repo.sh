@@ -60,7 +60,7 @@ push_vendor () {
 cd ~/rom
 ls -lh
 compile &
-sleep 114m
+sleep 113m
 kill %1
 #push_kernel
 #push_device
